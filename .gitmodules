@@ -1,0 +1,3 @@
+[submodule "src/frogfs"]
+	path = src/frogfs
+	url = git@github.com:lmiori92/frogFS.git
